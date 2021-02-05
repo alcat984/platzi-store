@@ -1,2 +1,2 @@
-# platzi-store
-Angular 8 t-shirt store
+# Platzi-store
+Angular 10 t-shirt store
